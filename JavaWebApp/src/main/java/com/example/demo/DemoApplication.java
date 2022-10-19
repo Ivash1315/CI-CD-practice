@@ -10,6 +10,10 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		string name = "ivash";
 		system.out.print ln(name);
+
+		Integer age = "20";
+		system.out.print ln(age + 5);
+
 	}
 
 }
